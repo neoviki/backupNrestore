@@ -1,6 +1,6 @@
 ## Backup and Restore Website
 
-Utility to backup and restore a webite. This utility can backup `any website with maximum of 4 databases.
+Utility to backup and restore a webite. This utility can backup `any website with maximum of 4 database tables.
 
 ## Quick Install 
 
